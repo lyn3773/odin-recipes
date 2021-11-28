@@ -1,4 +1,6 @@
-
+* {
+    border: 2px solid red;
+}
 .lasagna {
     background-color: rgb(182, 240, 89);
     width: fit-content;
